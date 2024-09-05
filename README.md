@@ -1,4 +1,4 @@
-A2 - Othello
+A2 - Board Game - Orthello
 
 Your assignment is to implement a variant of the game Othello according to the UML Class diagrams 
 provided below and the original rules specified in this link:
